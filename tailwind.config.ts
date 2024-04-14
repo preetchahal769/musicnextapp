@@ -33,8 +33,13 @@ module.exports = {
     // rest of the code
   },
   plugins: [addVariablesForColors],
+  
+  
 };
 
+{
+  
+  }
 function addVariablesForColors({ addBase, theme }: any) {
   let allColors = flattenColorPalette(theme("colors"));
   let newVars = Object.fromEntries(

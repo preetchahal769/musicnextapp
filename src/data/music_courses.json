@@ -1,0 +1,112 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Muay Thai Kickboxing",
+      "description": "Learn the art of Muay Thai, 'the art of eight limbs.' This striking-based martial art uses punches, elbows, knees, and shins for powerful self-defense and fitness improvement.",
+      "level": "Beginner",
+
+      "time": "18:00 - 19:00",
+      "instructor": "John Smith (Kru John)",
+      "image": "muay-thai.jpg",
+      "price": 1750.0,
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "name": "Brazilian Jiu-Jitsu (BJJ)",
+      "description": "Develop grappling skills and ground fighting techniques in this submission-oriented martial art. BJJ emphasizes control and leverage, making it effective regardless of size or strength.",
+      "level": "Intermediate",
+
+      "time": "19:30 - 21:00",
+      "instructor": "Jane Doe",
+      "image": "bjj.jpg",
+      "price": 1800.0,
+      "isFeatured": false
+    },
+    {
+      "id": 3,
+      "name": "Boxing Fundamentals",
+      "description": "Master the art of boxing with a focus on proper footwork, punching technique, and defense. This course is perfect for beginners looking to build a strong foundation in boxing.",
+      "level": "All Levels",
+
+      "time": "10:00 - 11:30",
+      "instructor": "Mike Lee",
+      "image": "boxing.jpg",
+      "price": 1500.0,
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "name": "Kids Martial Arts (Ages 5-12)",
+      "description": "Introduce children to the world of martial arts in a fun and safe environment. This program focuses on building coordination, discipline, and self-confidence through age-appropriate drills and games.",
+      "level": "Kids",
+
+      "time": "16:00 - 17:00",
+      "instructor": "Sarah Garcia",
+      "image": "kids-martial-arts.jpg",
+      "price": 2500.0,
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "name": "Kickboxing Cardio Blast (**NEW!**)",
+      "description": "Get your heart pumping with this high-energy kickboxing workout. Burn calories, improve coordination, and have a blast all at once!",
+      "level": "All Levels",
+
+      "time": "17:00 - 18:00",
+      "instructor": "Emily Jones",
+      "image": "kickboxing-cardio.jpg",
+      "price": 2000.0,
+      "isFeatured": false
+    },
+    {
+      "id": 6,
+      "name": "Women's Self-Defense Workshop",
+      "description": "Empower yourself with essential self-defense techniques in this practical workshop. Learn basic strikes, escapes, and situational awareness to stay safe.",
+      "level": "All Levels",
+
+      "time": "10:00 - 12:00",
+      "instructor": "Sarah Garcia",
+      "image": "self-defense.jpg",
+      "price": 1500.0,
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "name": "Private Training",
+      "description": "Take your training to the next level with one-on-one instruction from our experienced coaches. Customize your workout and achieve your fitness goals faster.",
+      "level": "All Levels",
+
+      "time": "Varies",
+      "instructor": "Varies",
+      "image": "private-training.jpg",
+      "price": 1000.0,
+      "isFeatured": true
+    },
+    {
+      "id": 8,
+      "name": "Women's Self-Defense Workshop",
+      "description": "Empower yourself with essential self-defense techniques in this practical workshop. Learn basic strikes, escapes, and situational awareness to stay safe.",
+      "level": "All Levels",
+
+      "time": "10:00 - 12:00",
+      "instructor": "Sarah Garcia",
+      "image": "self-defense.jpg",
+      "price": 1500.0,
+      "isFeatured": false
+    },
+    {
+      "id": 9,
+      "name": "Private Training",
+      "description": "Take your training to the next level with one-on-one instruction from our experienced coaches. Customize your workout and achieve your fitness goals faster.",
+      "level": "All Levels",
+
+      "time": "Varies",
+      "instructor": "Varies",
+      "image": "private-training.jpg",
+      "price": 1000.0,
+      "isFeatured": false
+    }
+  ]
+}
